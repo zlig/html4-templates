@@ -10,3 +10,4 @@ This repository intends to host re-usable code to resolve problem with layout co
 - 2 columns layout
 - 3 columns layout
 - Evenly distributed floated elements
+
